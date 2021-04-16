@@ -1,0 +1,23 @@
+/* body{
+    background-image: url('./images/background\ img.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+
+
+h1{
+    color: pink;
+}
+
+p{
+    color: rgb(0,0,139);
+    /* background-color:pink; */
+    /* content: ; */
+    padding: 5% 0 5% 10%;
+    margin:5% 20% 0 10%;
+    border:2px solid pink ;
+}
+
+#footer p{
+    color: red;
+}
